@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\KIIT\\source\\repos\\EcommercePlatformSearchFunction\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7C634208-677B-4A4A-8996-96D61F3DD912}|EcommercePlatformSearchFunction\\EcommercePlatformSearchFunction.csproj|c:\\users\\kiit\\source\\repos\\ecommerceplatformsearchfunction\\ecommerceplatformsearchfunction\\searchalgorithms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C634208-677B-4A4A-8996-96D61F3DD912}|EcommercePlatformSearchFunction\\EcommercePlatformSearchFunction.csproj|solutionrelative:ecommerceplatformsearchfunction\\searchalgorithms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C634208-677B-4A4A-8996-96D61F3DD912}|EcommercePlatformSearchFunction\\EcommercePlatformSearchFunction.csproj|c:\\users\\kiit\\source\\repos\\ecommerceplatformsearchfunction\\ecommerceplatformsearchfunction\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C634208-677B-4A4A-8996-96D61F3DD912}|EcommercePlatformSearchFunction\\EcommercePlatformSearchFunction.csproj|solutionrelative:ecommerceplatformsearchfunction\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C634208-677B-4A4A-8996-96D61F3DD912}|EcommercePlatformSearchFunction\\EcommercePlatformSearchFunction.csproj|c:\\users\\kiit\\source\\repos\\ecommerceplatformsearchfunction\\ecommerceplatformsearchfunction\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C634208-677B-4A4A-8996-96D61F3DD912}|EcommercePlatformSearchFunction\\EcommercePlatformSearchFunction.csproj|solutionrelative:ecommerceplatformsearchfunction\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SearchAlgorithms.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\source\\repos\\EcommercePlatformSearchFunction\\EcommercePlatformSearchFunction\\SearchAlgorithms.cs",
+              "RelativeDocumentMoniker": "EcommercePlatformSearchFunction\\SearchAlgorithms.cs",
+              "ToolTip": "C:\\Users\\KIIT\\source\\repos\\EcommercePlatformSearchFunction\\EcommercePlatformSearchFunction\\SearchAlgorithms.cs",
+              "RelativeToolTip": "EcommercePlatformSearchFunction\\SearchAlgorithms.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T17:50:43.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\source\\repos\\EcommercePlatformSearchFunction\\EcommercePlatformSearchFunction\\Product.cs",
+              "RelativeDocumentMoniker": "EcommercePlatformSearchFunction\\Product.cs",
+              "ToolTip": "C:\\Users\\KIIT\\source\\repos\\EcommercePlatformSearchFunction\\EcommercePlatformSearchFunction\\Product.cs",
+              "RelativeToolTip": "EcommercePlatformSearchFunction\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T17:50:10.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\source\\repos\\EcommercePlatformSearchFunction\\EcommercePlatformSearchFunction\\Program.cs",
+              "RelativeDocumentMoniker": "EcommercePlatformSearchFunction\\Program.cs",
+              "ToolTip": "C:\\Users\\KIIT\\source\\repos\\EcommercePlatformSearchFunction\\EcommercePlatformSearchFunction\\Program.cs",
+              "RelativeToolTip": "EcommercePlatformSearchFunction\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T17:49:16.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
